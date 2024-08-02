@@ -12,9 +12,9 @@ The code works using a neural network to compare an image against many others, a
 
 ## Running this project
 
-1. Download my-recognition.py and any images(PNG or JPG) that you wish to run.
+1. Download my-recognition.py and any images(png or jpg) that you wish to run.
    
-2. In terminal, change directories to access my-recognition.py
+2. In Terminal, change directories to access my-recognition.py
    
 3. Input the following command to run the script:
     python3 my-recognition.py [YOUR IMAGE HERE]

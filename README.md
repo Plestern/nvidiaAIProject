@@ -1,12 +1,14 @@
 # Endangered Species Sorter
 
 This project takes an image and identifies it using ImageNet's database. Then, it prints whether a species is not at risk, vulnerable, or endangered.
-![add image descrition here](direct image link here)
+
+Screenshot of the code and output of an image of a baboon: https://ibb.co/2Nc4gB0
+
 
 ## The Algorithm
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
 The code works using a neural network to compare an image against many others, and using values in many criterion, the code makes its best guess as to what the image is. Then, it runs the name the image was identified as through 3 lists of varied endangerment statuese, each containing many animals. Finally, using list comprehension, the code prints the endangerment status of the animal.
+
 
 ## Running this project
 

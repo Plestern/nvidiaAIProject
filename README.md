@@ -11,6 +11,7 @@ The code works using a neural network to compare an image against many others, a
 
 
 ## Running this project
+Note: No libraries are required to run this project.
 
 1. Download my-recognition.py and any images(png or jpg) that you wish to run.
    
@@ -18,5 +19,6 @@ The code works using a neural network to compare an image against many others, a
    
 3. Input the following command to run the script:
     python3 my-recognition.py [YOUR IMAGE HERE]
-   
-[View a video explanation here](video link)
+
+
+Video demonstration of code: https://www.kapwing.com/videos/66ad942a9d6826047b7b6755
